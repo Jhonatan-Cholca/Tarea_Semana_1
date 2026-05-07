@@ -41,7 +41,7 @@ public class Actividad2_Ejercicio1
                 continue;
             }
 
-            System.out.print("Año del vehículo: ");
+            System.out.print("Año del vehículo: TEST GIT ");
             int año = teclado.nextInt();
             System.out.print("Capacidad (número de pasajeros): ");
             int capacidad = teclado.nextInt();
